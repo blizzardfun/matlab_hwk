@@ -1,2 +1,2 @@
-# matlab_hwk
-pymaceutical homework problem 
+# matlib_hwk
+pymaceutical homework problem using matplotlib and pandas for plotting 
