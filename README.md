@@ -15,3 +15,5 @@ These graphs show that only two of the  drugs are successful in producing positi
 
 One function autolabel is defined and located in the  graph.py file
  * Note: The analysis can be recreated using the pharmaceuticals.ipynb Jupyter Notebook file.
+
+ To access the deployed app https://blizzardfun.github.io/pharma_analysis.github.io/
